@@ -7,19 +7,26 @@
 [ignitez](https://ignitezit.herokuapp.com)
 
 ```python
+#python
 def tell():
   print("hello")
 ```
 
-***
+```c++
+//c++
+#include <iostream>
 
-> just testing
-> hello world 👋
+int main(){
+  std::cout << "Hello from c++\n";
+}
+```
 
-***
+> just testing  
+hello world 👋
+
 
 * one
 * two
 
-1.one
-1.two
+1. one
+1. two
